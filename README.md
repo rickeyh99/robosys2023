@@ -7,7 +7,7 @@ git clone git@github.com:rickeyh99/robosys2023.git
 # plus.pyの例
 
 $ seq 10 | ./plus.py
-  55
+55  
 
 ## 必要なソフトウェア
 * python
