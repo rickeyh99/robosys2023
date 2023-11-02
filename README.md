@@ -1,13 +1,12 @@
 # robosys2023
 ロボットシステム学2023
 
-# インストール
+## インストール
 git clone git@github.com:rickeyh99/robosys2023.git
 
-# plus.pyの例
+## plus.pyの例
 
-$ seq 10 | ./plus.py
-55  
+$ seq 10 | ./plus.py  55
 
 ## 必要なソフトウェア
 * python
